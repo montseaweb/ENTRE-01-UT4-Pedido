@@ -1,7 +1,7 @@
 
 
 /**
- *  Representa a un cliente que hace un pedido 
+ *  Representa a un cliente que solicita un pedido 
  */
 public class Cliente
 {
