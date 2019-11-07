@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 /**
- *  Representa una fecha 
+ *  Representa a una fecha 
  */
 public class Fecha
 {
@@ -14,7 +14,7 @@ public class Fecha
     }
 
     /**
-     * accesor para el día
+     * accesor para el día de la fecha
      */
     public int getDia() {
         return date.getDayOfMonth();
