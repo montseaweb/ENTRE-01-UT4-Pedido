@@ -5,7 +5,7 @@
 public class Producto
 {
     private String nombre;
-    private double precio;  // precio unidad del producto
+    private double precio;   
 
     /**
      * Constructor  
@@ -30,7 +30,7 @@ public class Producto
     }
     
     /**
-     * obtiene un nuevo producto copia idéntica del actual
+     * obtenere un nuevo producto copia idéntica del actual
      */
     public         obtenerCopia() {
          
