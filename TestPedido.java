@@ -12,13 +12,13 @@ public class TestPedido
      * Constructor  
      */
     public TestPedido()    {
-        // crear pedido1
+        // crear un pedido1
        
 	   
 	   
 	   
 
-        // crear pedido2
+        // crear un pedido2
          
 
     }
