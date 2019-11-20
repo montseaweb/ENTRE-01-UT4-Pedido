@@ -2,7 +2,7 @@
 
 /**
  *  Representa a un cliente que solicita un pedido 
- *   Probando ramas
+ *   Probando ramas.  
  */
 public class Cliente
 {
