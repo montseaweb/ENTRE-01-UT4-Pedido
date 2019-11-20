@@ -38,7 +38,7 @@ public class Producto
 
     /**
      * Representación textual de un producto
-     * (ver enunciado)
+     *  
      */
     public String toString() {
         
