@@ -57,7 +57,7 @@ public class Cliente
     }
     
     /**
-     * 
+     * mostrar datos del cliente
      */
     public void print() {
         System.out.println(this.toString());
